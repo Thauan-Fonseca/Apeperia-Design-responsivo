@@ -7,3 +7,5 @@
 O objetivo era fazer com que a página reorganizasse seus elementos em qualquer tipo de disposivomobile ou tela. :tv:
 
 
+
+
